@@ -1,2 +1,2 @@
-# RaiseTech
-RaiseTech課題提出用のリポジトリです。
+# git-operation-test
+git練習用のリポジトリです。
